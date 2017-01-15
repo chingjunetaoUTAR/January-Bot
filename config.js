@@ -1,0 +1,4 @@
+module.exports = {
+	VERIFY_TOKEN: 'testbot_verify_token',
+	PAGE_TOKEN: 'EAAYalZC2reW4BAIHK5exv7oTZBEm423oTBSl3WGTlASwoZCZCi7sFzvHfrZBFBQMqCwlYyjCygk0grdqqwIZADIHmZBUexg15yPq4UYZBXicxTwJbx3kIKLnVuvnv719aHdYsREtYrCaMoXFinZCFpMW6YlVO3ZCfIfExBxkNQqHBHPgZDZD'
+}
